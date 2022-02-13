@@ -10,4 +10,4 @@ Principales fuentes consultadas o de material extraido como imagenes u otra form
   3) tensorflow.org
   4) scikit-learn.org
   5) tslearn.readthedocs
-  6) repositorios/blogs/foros vinculados
+  6) otras librerias/repositorios/blogs/foros vinculados
