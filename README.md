@@ -5,7 +5,7 @@ tecnicas, metodos y modelos de Machine Learning.
 algún libro, foro o blog vinculado. 
 
 Principales fuentes consultadas o de material extraido como imagenes u otra forma:
-  <b>1)</b> Aurélien Géron (O'Reilly) : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
-  <b>2)</b> Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
-  <b>3)</b> tensorflow.org
-  <b>4)</b> scikit-learn.org
+  1) Aurélien Géron (O'Reilly) : Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow
+  2) Andreas C. Müller and Sarah Guido (O'Reilly): Introduction to Machine Learning with Python A Guide for Data Scientists
+  3) tensorflow.org
+  4) scikit-learn.org
