@@ -16,4 +16,4 @@ Principales fuentes consultadas o de material extraido como imagenes u otra form
 que genere algún error en caso de ejecutarse.
 
 **Cuidado**: Casos observados de potencial error en versiones nuevas de librerias
-1) El retorno de alguna funcion de scikit no devuelve formato numpy sino dataframe o viceversa generando inconsistencia al colocarse X[indice] (numpy) vs X.iloc[indice] (pandas) 
+1) El retorno de alguna funcion de scikit no devuelve formato numpy sino dataframe o viceversa generando inconsistencia al colocarse X[indice] (numpy) vs X.iloc[indice] (pandas), por lo que deberá tenerse cuidado de manipular los elementos segun indices en matriz de numpy (matriz[indices]) o segun dataframe (df.iloc[indices] ó df.loc[indices]) 
